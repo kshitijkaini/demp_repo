@@ -4,3 +4,6 @@ let person = {
       faculty : 'BCT'
 
 };
+let a=12;
+let b=2;
+console.log("b**a =",b**a);
