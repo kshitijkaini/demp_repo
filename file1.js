@@ -7,3 +7,5 @@ let person = {
 let a=12;
 let b=2;
 console.log("b**a =",b**a);
+console.log(name1[2]);
+console.log("kshitij");
